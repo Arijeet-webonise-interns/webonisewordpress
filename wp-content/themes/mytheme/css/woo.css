@@ -1,0 +1,19 @@
+.images{
+	line-height:30px;
+    width:400px;
+    float:left;
+    padding:5px; 
+    /*background-color: green;*/
+}
+.summary{
+	/*background-color: blue;*/
+	width:350px;
+    float:left;
+    padding:10px; 
+} 
+.woocommerce-tabs{
+	 clear:both;
+    text-align:center;
+    padding:5px; 
+    /*background-color: red;*/
+}

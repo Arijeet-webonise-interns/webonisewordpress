@@ -1,0 +1,4 @@
+function rad(val) {
+	// body...
+	
+}
